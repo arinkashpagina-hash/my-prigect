@@ -1,0 +1,15 @@
+C:\Users\arink\OneDrive\Desktop\my prigect\bin\Debug\net10.0\my prigect.exe
+C:\Users\arink\OneDrive\Desktop\my prigect\bin\Debug\net10.0\my prigect.deps.json
+C:\Users\arink\OneDrive\Desktop\my prigect\bin\Debug\net10.0\my prigect.runtimeconfig.json
+C:\Users\arink\OneDrive\Desktop\my prigect\bin\Debug\net10.0\my prigect.dll
+C:\Users\arink\OneDrive\Desktop\my prigect\bin\Debug\net10.0\my prigect.pdb
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.AssemblyInfoInputs.cache
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.AssemblyInfo.cs
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.csproj.CoreCompileInputs.cache
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.sourcelink.json
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.dll
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\refint\my prigect.dll
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.pdb
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\my prigect.genruntimeconfig.cache
+C:\Users\arink\OneDrive\Desktop\my prigect\obj\Debug\net10.0\ref\my prigect.dll
